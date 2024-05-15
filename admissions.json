@@ -1,46 +1,46 @@
 [
   {
     "Year": 2014,
-    "Admission-Rate": 30
+    "Admissions": 30
   },
   {
     "Year": 2015,
-    "Admission-Rate": 32
+    "Admissions": 32
   },
   {
     "Year": 2016,
-    "Admission-Rate": 45
+    "Admissions": 45
   },
   {
     "Year": 2017,
-    "Admission-Rate": 40
+    "Admissions": 40
   },
   {
     "Year": 2018,
-    "Admission-Rate": 43
+    "Admissions": 43
   },
   {
     "Year": 2019,
-    "Admission-Rate": 50
+    "Admissions": 50
   },
   {
     "Year": 2020,
-    "Admission-Rate": 48
+    "Admissions": 48
   },
   {
     "Year": 2021,
-    "Admission-Rate": 46
+    "Admissions": 46
   },
   {
     "Year": 2022,
-    "Admission-Rate": 39
+    "Admissions": 39
   },
   {
     "Year": 2023,
-    "Admission-Rate": 37
+    "Admissions": 37
   },
   {
     "Year": 2024,
-    "Admission-Rate": 34
+    "Admissions": 34
   }
 ]
