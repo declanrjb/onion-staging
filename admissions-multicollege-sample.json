@@ -1,0 +1,112 @@
+[
+  {
+    "Institution": "Education College",
+    "Year": 2014,
+    "Admissions": 30
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2015,
+    "Admissions": 32
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2016,
+    "Admissions": 45
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2017,
+    "Admissions": 40
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2018,
+    "Admissions": 43
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2019,
+    "Admissions": 50
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2020,
+    "Admissions": 48
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2021,
+    "Admissions": 46
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2022,
+    "Admissions": 39
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2023,
+    "Admissions": 37
+  },
+  {
+    "Institution": "Education College",
+    "Year": 2024,
+    "Admissions": 34
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2014,
+    "Admissions": 35
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2015,
+    "Admissions": 31
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2016,
+    "Admissions": 50
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2017,
+    "Admissions": 38
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2018,
+    "Admissions": 46
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2019,
+    "Admissions": 52
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2020,
+    "Admissions": 50
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2021,
+    "Admissions": 44
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2022,
+    "Admissions": 35
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2023,
+    "Admissions": 39
+  },
+  {
+    "Institution": "Learning University",
+    "Year": 2024,
+    "Admissions": 30
+  }
+]
