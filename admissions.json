@@ -1,46 +1,57 @@
 [
   {
     "Year": 2014,
-    "Admissions": 30
+    "Admissions": 30,
+    "Institution":"Reed"
   },
   {
     "Year": 2015,
-    "Admissions": 32
+    "Admissions": 32,
+    "Institution":"Reed"
   },
   {
     "Year": 2016,
-    "Admissions": 45
+    "Admissions": 45,
+    "Institution":"Reed"
   },
   {
     "Year": 2017,
-    "Admissions": 40
+    "Admissions": 40,
+    "Institution":"Reed"
   },
   {
     "Year": 2018,
-    "Admissions": 43
+    "Admissions": 43,
+    "Institution":"Reed"
   },
   {
     "Year": 2019,
-    "Admissions": 50
+    "Admissions": 50,
+    "Institution":"Reed"
   },
   {
     "Year": 2020,
-    "Admissions": 48
+    "Admissions": 48,
+    "Institution":"Reed"
   },
   {
     "Year": 2021,
-    "Admissions": 46
+    "Admissions": 46,
+    "Institution":"Reed"
   },
   {
     "Year": 2022,
-    "Admissions": 39
+    "Admissions": 39,
+    "Institution":"Reed"
   },
   {
     "Year": 2023,
-    "Admissions": 37
+    "Admissions": 37,
+    "Institution":"Reed"
   },
   {
     "Year": 2024,
-    "Admissions": 34
+    "Admissions": 34,
+    "Institution":"Reed"
   }
 ]
