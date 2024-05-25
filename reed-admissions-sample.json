@@ -1,6 +1,7 @@
 [
   {
     "Year": "2005-6",
+    "Institution": "Reed College",
     "Applicants (male)": "1,193",
     "Applicants (female)": "1,453",
     "Applicants (third gender)": "",
@@ -27,6 +28,7 @@
   },
   {
     "Year": "2006-7",
+    "Institution": "Reed College",
     "Applicants (male)": "1,354",
     "Applicants (female)": "1,695",
     "Applicants (third gender)": "",
@@ -53,6 +55,7 @@
   },
   {
     "Year": "2007-8",
+    "Institution": "Reed College",
     "Applicants (male)": "1,457",
     "Applicants (female)": "1,908",
     "Applicants (third gender)": "",
@@ -79,6 +82,7 @@
   },
   {
     "Year": "2008-9",
+    "Institution": "Reed College",
     "Applicants (male)": "1,503",
     "Applicants (female)": "1,982",
     "Applicants (third gender)": "",
@@ -105,6 +109,7 @@
   },
   {
     "Year": "2009-10",
+    "Institution": "Reed College",
     "Applicants (male)": "1,314",
     "Applicants (female)": "1,847",
     "Applicants (third gender)": "",
@@ -131,6 +136,7 @@
   },
   {
     "Year": "2010-11",
+    "Institution": "Reed College",
     "Applicants (male)": "1,310",
     "Applicants (female)": "1,765",
     "Applicants (third gender)": "",
@@ -157,6 +163,7 @@
   },
   {
     "Year": "2011-12",
+    "Institution": "Reed College",
     "Applicants (male)": "1,285",
     "Applicants (female)": "1,774",
     "Applicants (third gender)": "",
@@ -183,6 +190,7 @@
   },
   {
     "Year": "2012-13",
+    "Institution": "Reed College",
     "Applicants (male)": "1,381",
     "Applicants (female)": "1,750",
     "Applicants (third gender)": "",
@@ -209,6 +217,7 @@
   },
   {
     "Year": "2013-14",
+    "Institution": "Reed College",
     "Applicants (male)": "1,247",
     "Applicants (female)": "1,646",
     "Applicants (third gender)": "",
@@ -235,6 +244,7 @@
   },
   {
     "Year": "2014-15",
+    "Institution": "Reed College",
     "Applicants (male)": "1,596",
     "Applicants (female)": "2,360",
     "Applicants (third gender)": "",
@@ -261,6 +271,7 @@
   },
   {
     "Year": "2015-16",
+    "Institution": "Reed College",
     "Applicants (male)": "2,161",
     "Applicants (female)": "3,235",
     "Applicants (third gender)": "",
@@ -287,6 +298,7 @@
   },
   {
     "Year": "2016-17",
+    "Institution": "Reed College",
     "Applicants (male)": "2,297",
     "Applicants (female)": "3,408",
     "Applicants (third gender)": "",
@@ -313,6 +325,7 @@
   },
   {
     "Year": "2017-18",
+    "Institution": "Reed College",
     "Applicants (male)": "2,262",
     "Applicants (female)": "3,390",
     "Applicants (third gender)": "",
@@ -339,6 +352,7 @@
   },
   {
     "Year": "2018-19",
+    "Institution": "Reed College",
     "Applicants (male)": "2,414",
     "Applicants (female)": "3,543",
     "Applicants (third gender)": "",
@@ -365,6 +379,7 @@
   },
   {
     "Year": "2019-20",
+    "Institution": "Reed College",
     "Applicants (male)": "2,247",
     "Applicants (female)": "3,568",
     "Applicants (third gender)": "",
@@ -391,6 +406,7 @@
   },
   {
     "Year": "2020-21",
+    "Institution": "Reed College",
     "Applicants (male)": "2,195",
     "Applicants (female)": "3,452",
     "Applicants (third gender)": "",
@@ -417,6 +433,7 @@
   },
   {
     "Year": "2021-22",
+    "Institution": "Reed College",
     "Applicants (male)": "2,545",
     "Applicants (female)": "4,028",
     "Applicants (third gender)": "",
@@ -443,6 +460,7 @@
   },
   {
     "Year": "2022-23",
+    "Institution": "Reed College",
     "Applicants (male)": 3302,
     "Applicants (female)": 5010,
     "Applicants (third gender)": 711,
